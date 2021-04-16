@@ -1,0 +1,18 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@300&family=Oswald:wght@300&display=swap');
+*{
+  padding:0;
+  margin:0;
+  border:0;
+}
+
+body {
+    width:100%;
+    font-family: 'Oswald',sans-serif;
+    background-color: black;
+}
+
+#home {
+    font-family: 'Lato',sans-serif;
+    background-image: url(https://www.99images.com/photos/wallpapers/girls/beauty-salonandroid-iphone-desktop-hd-backgrounds-wallpapers-1080p-4k-pmwt8.jpg?v=1614869468);
+  
+}
